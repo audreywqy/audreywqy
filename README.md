@@ -5,40 +5,40 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/audreywqy/audreywqy/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-
 ---
-
-# Audrey's Portfolio Website
 
 [![Live Demo](https://img.shields.io/badge/Live%20Site-audreywqy.github.io/audrey--portfolio--website-blue?logo=github)](https://audreywqy.github.io/audrey-portfolio-website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Audrey-blue?logo=linkedin)](https://www.linkedin.com/in/audreywqy/)
 [![Incoming MBA](https://img.shields.io/badge/UCLA%20MBA-Incoming%202025-2774AE?logo=ucla&logoColor=white)](https://www.anderson.ucla.edu/)
-[![Built Vera Rent](https://img.shields.io/badge/SaaS-Built%20Vera%20Rent-7E3FF2)]()
-[![Recovering Procrastinator](https://img.shields.io/badge/Recovering-Procrastinator-lightgrey)]()
+[![Built Vera Rent](https://img.shields.io/badge/SaaS%20Builder-Vera%20Rent-7E3FF2)]()
+[![Built Netup](https://img.shields.io/badge/Mentorship%20Marketplace%20Builder-Netup-8A2BE2)]()
+[![Badminton Tactician](https://img.shields.io/badge/Side%20Hustle-Badminton%20Tactician-ff69b4)]()
+[![Rock Climber](https://img.shields.io/badge/Hobby-Rock%20Climber-orange)]()
 [![Feature Cut Queen 👑](https://img.shields.io/badge/Scope%20Control-Expert-red)]()
 [![User First](https://img.shields.io/badge/User%20First-Always-blueviolet)]()
 [![Coffee Powered](https://img.shields.io/badge/Coffee-Powered-important?logo=buy-me-a-coffee)]()
 
 ---
 
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
 ## 👋 About Me
 
-Hi, I’m **Audrey** — a software-engineer-turned-founder, soon-to-be UCLA Anderson MBA, and aspiring product manager with a passion for building **real, useful, user-first products**.
+Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MBA, building SaaS products with a sharp product sense and just enough caffeine.
 
-- 🧠 CS + Biz grad from **University of Waterloo**
-- 💻 Former full-stack engineer at Wish (Android & backend)
-- 🏢 Started a real estate company managing $170M in commercial assets
-- 🛠️ Built **Vera Rent**, a SaaS tool with AI automation to streamline operations, reduce headcount, and eliminate spreadsheet madness
-- 🎯 Now transitioning into **product management**, combining my engineering roots and operator experience to build B2B tools that actually work
+- 🧠 CS + Business grad from **University of Waterloo**
+- 💻 Ex-Software Engineer at Wish (Android + backend)
+- 🏢 Founded a real estate company managing $170M in commercial assets
+- 🛠️ Built **Vera Rent**, an AI-powered property management SaaS that helped me **hire fewer people**, automate operations, and scale smarter
+- 🤝 Also founded **Netup**, a mentorship platform that connects international students with mentors working at big tech companies — helping more people break into tech
+- 🎯 Transitioning into **product management**, blending engineering intuition with operator grit
 
 > I like my UX clean, my MVPs lean, and my onboarding flows shorter than a TikTok.
+> I believe great products are built at the intersection of logic, empathy, and bias-for-action — sometimes with a little help from LLMs.
 
 ---
 
 ## 🧠 Tech Stack
-
-This portfolio is built with:
 
 | Tech             | Description                              |
 |------------------|------------------------------------------|
@@ -46,12 +46,15 @@ This portfolio is built with:
 | ![React](https://img.shields.io/badge/React-UI-blue?logo=react) | Component-based frontend |
 | ![Tailwind](https://img.shields.io/badge/Tailwind-Styling-38B2AC?logo=tailwindcss) | Utility-first CSS |
 | ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-Design%20System-black) | Accessible headless UI |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-blue?logo=typescript) | Type safety + readability |
-| ![Java](https://img.shields.io/badge/Java-Backend-red?logo=java&logoColor=white) | OOP, Spring, Android |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin&logoColor=white) | Modern Android apps |
-| ![Python](https://img.shields.io/badge/Python-Automation-yellow?logo=python) | Scripts, APIs, AI tools |
-| ![Twilio](https://img.shields.io/badge/Twilio-API%20Integration-F22F46?logo=twilio&logoColor=white) | SMS & Voice in SaaS |
-| ![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Actions-181717?logo=github) | CI/CD pipeline |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-Typing-3178C6?logo=typescript) | Scalable code & safer dev |
+| ![Python](https://img.shields.io/badge/Python-AI%20Tools-yellow?logo=python) | AI workflows & scripting |
+| ![Java](https://img.shields.io/badge/Java-Android-red?logo=java&logoColor=white) | Backend + enterprise apps |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-Mobile-7F52FF?logo=kotlin) | Android feature work |
+| ![Twilio](https://img.shields.io/badge/Twilio-API%20Integration-F22F46?logo=twilio&logoColor=white) | SMS alerts for operations |
+| ![Cursor](https://img.shields.io/badge/Code%20Editor-Cursor-2A2D4E?logo=visualstudiocode&logoColor=white) | AI-first dev workflow |
+| ![Vibe Coding](https://img.shields.io/badge/Mode-Vibe%20Coding-ff69b4) | Headphones on. Flow in. |
+| ![Lovable](https://img.shields.io/badge/Product%20Principle-Lovable%20>%20Viable-red) | Ship features users ❤️ |
+| ![GitHub Actions](https://img.shields.io/badge/CI-CD%20via%20GitHub%20Actions-181717?logo=github) | Automated deploys |
 
 
 <div align="left">
