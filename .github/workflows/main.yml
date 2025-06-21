@@ -21,8 +21,6 @@ jobs:
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Push the generated SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
