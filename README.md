@@ -22,8 +22,6 @@
 
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-## 👋 About Me
-
 Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MBA, building SaaS products with a sharp product sense and just enough caffeine.
 
 - 🧠 CS + Business grad from **University of Waterloo**
