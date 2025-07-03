@@ -9,11 +9,11 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Site-audreywqy.github.io/audrey--portfolio--website-blue?logo=github)](https://audreywqy.github.io/audrey-portfolio-website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Audrey-blue?logo=linkedin)](https://www.linkedin.com/in/audreywqy/)
-[![Incoming MBA](https://img.shields.io/badge/UCLA%20MBA-Incoming%202025-2774AE?logo=ucla&logoColor=white)](https://www.anderson.ucla.edu/)
-[![Built Vera Rent](https://img.shields.io/badge/SaaS%20Builder-Vera%20Rent-7E3FF2)]()
-[![Built Netup](https://img.shields.io/badge/Mentorship%20Marketplace%20Builder-Netup-8A2BE2)]()
+[![Incoming MBA](https://img.shields.io/badge/UCLA%20MBA-Class%20of%202027-green)](https://www.anderson.ucla.edu/)
+[![Built VeraRent](https://img.shields.io/badge/SaaS%20Builder-VeraRent-7E3FF2)]()
+[![Built Netup](https://img.shields.io/badge/Mentorship%20Marketplace%20Builder-Netup-2CADFE)]()
 [![Badminton Tactician](https://img.shields.io/badge/Side%20Hustle-Badminton%20Tactician-ff69b4)]()
-[![Rock Climber](https://img.shields.io/badge/Hobby-Rock%20Climber-orange)]()
+[![Rock Climber](https://img.shields.io/badge/Hobby-Rock%20Climber-ECD53F)]()
 [![Feature Cut Queen 👑](https://img.shields.io/badge/Scope%20Control-Expert-red)]()
 [![User First](https://img.shields.io/badge/User%20First-Always-blueviolet)]()
 [![Coffee Powered](https://img.shields.io/badge/Coffee-Powered-important?logo=buy-me-a-coffee)]()
@@ -28,7 +28,7 @@ Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MB
 - 💻 Ex-Software Engineer at Wish (Android + backend)
 - 🏢 Founded a real estate company managing $170M in commercial assets
 - 🛠️ Built **VeraRent**, an AI-powered property management SaaS that helped me **hire fewer people**, automate operations, and scale smarter
-- 🤝 Also founded **Netup**, a mentorship platform that connects international students with mentors working at big tech companies — helping more people break into tech
+- 🤝 Also the founding product manager at **Netup**, a mentorship platform that connects international students with mentors working at big tech companies — helping more people break into tech
 - 🎯 Transitioning into **product management**, blending engineering intuition with operator grit
 
 > I like my UX clean, my MVPs lean, and my onboarding flows shorter than a TikTok.
@@ -62,7 +62,7 @@ Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MB
 
 ## 🛠 Projects
 
-### 🔧 Vera Rent – AI-powered property management SaaS
+### 🔧 VeraRent – AI-powered property management SaaS
 
 - **What**: Streamlined lease tracking, rent collection, and financial reporting with automation + AI summaries
 - **Why**: To reduce errors, cut down manual labor, and operate lean
@@ -75,28 +75,19 @@ Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MB
 ## 🤹‍♀️ Fun Facts
 
 - I ran a leasing portfolio *and* wrote my own accounting automation in the same week.
-- I taught myself Vite because CRA made me cry.
-- My most-used keyboard shortcut is `⌘ + Z`, followed closely by `⌘ + /`.
-- My best ideas come at 11:59 PM when I swore I was going to sleep at 10.
+- I’m a competitive badminton player and love the thrill of a good rally 🏸
+- Coffee fuels my coding sessions ☕️
+- My best ideas come at 11:59 PM when I swore I was going to sleep at 10 😴
+- I’m fascinated by AI and how it’s reshaping product management 🤖
+- Always up for a good productivity hack or new time management trick ⏰
 
 ---
 
 ## 🔗 Let’s Connect
 
-📬 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/audreywqy/)
+📬 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/audreyw77/)
 
 ---
 
 MIT License © Audrey W.
 
-```
-
----
-
-Would you like to:
-- Add Vera Rent as a clickable badge or standalone repo link?
-- Include demo screenshots or a Loom walkthrough badge?
-- Show AI tech stack like OpenAI or Langchain?
-
-Happy to keep refining!
-```
