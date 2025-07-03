@@ -27,7 +27,7 @@ Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MB
 - 🧠 CS + Business grad from **University of Waterloo**
 - 💻 Ex-Software Engineer at Wish (Android + backend)
 - 🏢 Founded a real estate company managing $170M in commercial assets
-- 🛠️ Built **Vera Rent**, an AI-powered property management SaaS that helped me **hire fewer people**, automate operations, and scale smarter
+- 🛠️ Built **VeraRent**, an AI-powered property management SaaS that helped me **hire fewer people**, automate operations, and scale smarter
 - 🤝 Also founded **Netup**, a mentorship platform that connects international students with mentors working at big tech companies — helping more people break into tech
 - 🎯 Transitioning into **product management**, blending engineering intuition with operator grit
 
