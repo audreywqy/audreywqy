@@ -66,7 +66,7 @@ Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MB
 
 - **What**: Streamlined lease tracking, rent collection, and financial reporting with automation + AI summaries
 - **Why**: To reduce errors, cut down manual labor, and operate lean
-- **How**: Built end-to-end using no-code + React + OpenAI API integration + Twilio SMS reminders
+- **How**: Built end-to-end using no-code + React + Node + MongoDB + OpenAI API integration + Twilio SMS reminders
 
 > It’s like Asana + Airtable had a baby that understands late rent.
 
