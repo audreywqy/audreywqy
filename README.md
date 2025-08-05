@@ -29,7 +29,7 @@ Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MB
 - 🏢 Founded a real estate company managing $170M in commercial assets
 - 🛠️ Built **VeraRent**, an AI-powered property management SaaS that helped me **hire fewer people**, automate operations, and scale smarter
 - 🤝 Also the founding product manager at **Netup**, a mentorship platform that connects international students with mentors working at big tech companies — helping more people break into tech
-- 🎯 I'm currently an MBA student at UCLA Anderson and I wish to continue to build better product post MBA
+- 🎯 Currently doing my MBA at UCLA Anderson and I wish to continue to build better product post MBA
 
 > I like my UX clean, my MVPs lean, and my onboarding flows shorter than a TikTok.
 > I believe great products are built at the intersection of logic, empathy, and bias-for-action — sometimes with a little help from LLMs.
