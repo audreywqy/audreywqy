@@ -60,9 +60,9 @@ Hi, I’m **Audrey** — a software engineer turned founder turned MBA student, 
 </div>
 
 
-## 🛠 Projects
+## 🛠 Current Project
 
-### 🔧 VeraRent – AI-powered property management SaaS
+### 🔧 VeraRent(not open-sourced): an AI-powered property management SaaS
 
 - **What**: Automated lease tracking, rent collection, reconciliations, and financial reporting with AI-powered features like lease autofill and a RAG-based chatbot for natural language queries
 - **Why**: To reduce errors, cut manual work, and help property managers operate leaner while scaling smarter
