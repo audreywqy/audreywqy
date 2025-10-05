@@ -68,7 +68,7 @@ Hi, I’m **Audrey** — a software engineer turned founder turned MBA student, 
 - **Why**: To reduce errors, cut manual work, and help property managers operate leaner while scaling smarter
 - **How**: Built end-to-end using React, Node.js, MongoDB, Amazon Textract, OpenAI API, Twilio SMS, and no-code tools for rapid prototyping
 
-> It’s like Asana + Airtable had a baby that understands late rent.
+> It’s like Asana + Airtable + ChatGPT had a baby that understands late rent.
 
 ---
 
