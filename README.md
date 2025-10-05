@@ -7,7 +7,7 @@
 
 ---
 
-[![Live Demo](https://img.shields.io/badge/Live%20Site-audreywqy.github.io/audrey--portfolio--website-blue?logo=github)](https://github.com/audreywqy/audreywqy/)
+[![Live Demo](https://img.shields.io/badge/Personal-Website-blue)](https://builtbyaudreywang.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Audrey-blue?logo=linkedin)](https://www.linkedin.com/in/audreywqy/)
 [![Incoming MBA](https://img.shields.io/badge/UCLA%20MBA-Class%20of%202027-green)](https://www.anderson.ucla.edu/)
 [![Built VeraRent](https://img.shields.io/badge/SaaS%20Builder-VeraRent-7E3FF2)]()
