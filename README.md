@@ -22,13 +22,13 @@
 
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MBA, building SaaS products with a sharp product sense and just enough caffeine.
+Hi, I’m **Audrey** — a software engineer turned founder turned MBA student, building SaaS products with a sharp product sense and just enough caffeine.
 
 - 🧠 CS + Business grad from **University of Waterloo**
-- 💻 Ex-Software Engineer at Wish (Android + backend)
+- 💻 Ex-Software Engineer @ Wish, TD Bank, Versaterm (Canadian based public safety software company)
 - 🏢 Founded a real estate company managing $170M in commercial assets
-- 🛠️ Built **VeraRent**, an AI-powered property management SaaS that helped me **hire fewer people**, automate operations, and scale smarter
-- 🤝 Also the founding product manager at **Netup**, a mentorship platform that connects international students with mentors working at big tech companies — helping more people break into tech
+- 🛠️ Built **VeraRent**, an AI-powered property management SaaS originally developed to streamline my own company’s operations, reducing manual work, lowering headcount, and scaling smarter. Later expanded with a RAG-powered chatbot and other AI features, and now working on commercialization.
+- 🤝 Also the founding product manager at **Netup**, a mentorship platform that connects international students with mentors working at big tech companies, helping more people break into tech
 - 🎯 Currently doing my MBA at UCLA Anderson and I wish to continue to build better product post MBA
 
 > I like my UX clean, my MVPs lean, and my onboarding flows shorter than a TikTok.
@@ -64,9 +64,9 @@ Hi, I’m **Audrey** — a software engineer turned founder turned soon-to-be MB
 
 ### 🔧 VeraRent – AI-powered property management SaaS
 
-- **What**: Streamlined lease tracking, rent collection, and financial reporting with automation + AI summaries
-- **Why**: To reduce errors, cut down manual labor, and operate lean
-- **How**: Built end-to-end using no-code + React + Node + MongoDB + OpenAI API integration + Twilio SMS reminders
+- **What**: Automated lease tracking, rent collection, reconciliations, and financial reporting with AI-powered features like lease autofill and a RAG-based chatbot for natural language queries
+- **Why**: To reduce errors, cut manual work, and help property managers operate leaner while scaling smarter
+- **How**: Built end-to-end using React, Node.js, MongoDB, Amazon Textract, OpenAI API, Twilio SMS, and no-code tools for rapid prototyping
 
 > It’s like Asana + Airtable had a baby that understands late rent.
 
