@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Audrey-blue?logo=linkedin)](https://www.linkedin.com/in/audreywqy/)
 [![Incoming MBA](https://img.shields.io/badge/UCLA%20MBA-Class%20of%202027-green)](https://www.anderson.ucla.edu/)
 [![Built VeraRent](https://img.shields.io/badge/SaaS%20Builder-VeraRent-7E3FF2)]()
-[![Built Netup](https://img.shields.io/badge/Mentorship%20Marketplace%20Builder-Netup-2CADFE)]()
+[![Built Netup](https://img.shields.io/badge/Mentorship%20Marketplace%20Builder-Netup-2CADFE)](https://www.netup.social/en)
 [![Badminton Tactician](https://img.shields.io/badge/Side%20Hustle-Badminton%20Tactician-ff69b4)]()
 [![Rock Climber](https://img.shields.io/badge/Hobby-Rock%20Climber-ECD53F)]()
 [![Feature Cut Queen 👑](https://img.shields.io/badge/Scope%20Control-Expert-red)]()
@@ -22,17 +22,21 @@
 
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-Hi, I’m **Audrey** — a software engineer turned founder turned MBA student, building SaaS products with a sharp product sense and just enough caffeine.
+Hi, I’m **Audrey** : a software engineer turned founder turned MBA student, building SaaS products with a sharp product sense and just enough caffeine.
 
 - 🧠 CS + Business grad from **University of Waterloo**
 - 💻 Ex-Software Engineer @ Wish, TD Bank, Versaterm (Canadian based public safety software company)
-- 🏢 Founded a real estate company managing $170M in commercial assets
+- 🏢 Founded a property management company managing $170M in commercial assets
 - 🛠️ Built **VeraRent**, an AI-powered property management SaaS originally developed to streamline my own company’s operations, reducing manual work, lowering headcount, and scaling smarter. Later expanded with a RAG-powered chatbot and other AI features, and now working on commercialization.
-- 🤝 Also the founding product manager at **Netup**, a mentorship platform that connects international students with mentors working at big tech companies, helping more people break into tech
+- 🤝 Also the founding product manager at **NetUp**, a mentorship platform that connects international students with mentors working at big tech companies, helping more people break into tech https://www.netup.social/en
 - 🎯 Currently doing my MBA at UCLA Anderson and I wish to continue to build better product post MBA
+- 🌐 My portfolio https://builtbyaudreywang.me
+
+- I started as an engineer who loved bringing ideas to life, but over time I realized I didn’t just want to *build* products, I wanted to understand *why* we build them. That curiosity led me to product management, where I could connect user needs, data, and business vision into one narrative. My goal is to grow into a PM who can bridge technical depth with strategic thinking and help teams build products that truly matter.
 
 > I like my UX clean, my MVPs lean, and my onboarding flows shorter than a TikTok.
-> I believe great products are built at the intersection of logic, empathy, and bias-for-action — sometimes with a little help from LLMs.
+
+> I believe great products are built at the intersection of logic, empathy, and bias-for-action (sometimes with a little help from LLMs).
 
 ---
 
